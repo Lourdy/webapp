@@ -11,7 +11,7 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job job containd the following integration with sonarqube,nexus</h1>
-      <h2 class="text-center">Eghosa Agunu deploy two application on one server</h2>
+      <h2 class="text-center">Eghosa Agunu deploy two application still on it on one server</h2>
   </div>
 </body>
 </html>
